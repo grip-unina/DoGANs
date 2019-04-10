@@ -1,6 +1,6 @@
 ---
 layout: paper
-paper: Guided patch-wise nonlocal SAR despeckling
+paper: Do GANs Leave Artificial Fingerprints?
 github_url: https://github.com/grip-unina/DoGANs
 authors: 
   - name: Francesco Marra
@@ -43,8 +43,11 @@ For better reproducibility and comparison, we release a dataset containing the G
 in the paper: Cycle-GAN [1], ProGAN [2], StarGAN [3], glow [4].
 
 [1] J. Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired imageto-image translation using cycle-consistent adversarial networks. In IEEE International Conference on Computer Vision, 2017
+
 [2] T. Karras, T. Aila, S. Laine, and J. Lehtinen. Progressive Growing of GANs for Improved Quality, Stability, and Variation. In International Conference on Learning Representations, 2018
+
 [3] Y. Choi, M. Choi, M. Kim, J.-W. Ha, S. Kim, and J. Choo. StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. In IEEE Conference on Computer Vision and Pattern Recognition, 2018
+
 [4] D. P. Kingma, P. DhariwalGlow. Generative Flow with Invertible 1x1 Convolutions. arXiv.1807.03039, 2018
 
 
@@ -62,6 +65,7 @@ author={F. Marra and D. Gragnaniello and L. Verdoliva and G. Poggi},
 booktitle={2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)}, 
 title={Do GANs leave artificial fingerprints?}, 
 year={2019},
-month={March}
+month={March},
+DOI={10.1109/MIPR.2019.00103}
 } 
 ```
