@@ -39,8 +39,8 @@ and multimedia forensic countermeasures are in urgent need.
 In this work, we show that each GAN leaves its specific fingerprint in the images it generates, 
 just like real-world cameras mark acquired images with traces of their photo-response non-uniformity pattern. 
 Source identification experiments with several popular GANs show such fingerprints to represent a precious asset for forensic analyses.
-For better reproducibility and comparison, we release a dataset containing the GAN images generated using the architectures used 
-in the paper: Cycle-GAN [1], ProGAN [2], StarGAN [3], glow [4].
+
+For better reproducibility and comparison, we release the dataset used in the paper, containing the images generated the considered GAN architectures: Cycle-GAN [1], ProGAN [2], StarGAN [3], glow [4].
 
 [1] J. Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired imageto-image translation using cycle-consistent adversarial networks. In IEEE International Conference on Computer Vision, 2017
 
@@ -60,7 +60,7 @@ in the paper: Cycle-GAN [1], ProGAN [2], StarGAN [3], glow [4].
 ### Bibtex
 
 ```js
-@inproceedings{Do_GAN, 
+@inproceedings{Marra2019_DoGANs, 
 author={F. Marra and D. Gragnaniello and L. Verdoliva and G. Poggi}, 
 booktitle={2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)}, 
 title={Do GANs leave artificial fingerprints?}, 
