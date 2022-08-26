@@ -26,6 +26,8 @@ affiliations:
 links:
     arxiv: https://arxiv.org/abs/1812.11842
     code: https://github.com/grip-unina/DoGANs
+    data: https://www.grip.unina.it/download/DoGANs
+    
 ---
 
 
